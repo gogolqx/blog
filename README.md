@@ -1,10 +1,8 @@
-[myblog]: https://wklchris.github.io
 [GithubPages]: https://pages.github.com/
 
-*This welcoming page was last updated on Oct, 2017.
-本欢迎页最后更新于 2017 年 10 月。*
+*This welcoming page was last updated on Oct, 2017.*
 
-# Welcome to wklchris' Github Blog!
+# Welcome to 
 
 **Link: [wklchris.github.io][myblog]**
 

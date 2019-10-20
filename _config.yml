@@ -1,15 +1,14 @@
-title: wklchris' blog
-author: wklchris
-email: wklchris AT hotmail DOT com
+title: qiaoxi' notes
+author: qiaoxi
+email: gogolqx AT gmail DOT com
 description: > # this means to ignore newlines until "baseurl:"
-  This is wklchris' blog. Please refer to the original page if repost. 
-  这里是 wklchris 的博客。如有转载，请注明出处页面。
+  This is qiaoxi's notes. Please refer to the original page if repost. 
+  
 baseurl: ""
-github_username:  wklchris
-weibo:
-  username: SirDong
-  urlid: wklchris
-google_analytics: UA-90643174-1
+github_username:  gogolqx
+#  username: SirDong
+#  urlid: wklchris
+#google_analytics: UA-90643174-1
 
 defaults:
   -
@@ -37,4 +36,4 @@ exclude:
   - ipynb/
 
 disqus:
-  shortname: wklchris
+  shortname: qiaoxi
