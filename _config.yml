@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is qiaoxi's notes. Please refer to the original page if repost. 
   
 url: "https://gogolqx.github.io/blog/"
+baseurl: ""
 #github_username:  gogolqx
 #  username: SirDong
 #  urlid: wklchris
