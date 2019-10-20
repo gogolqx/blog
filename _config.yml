@@ -4,7 +4,7 @@ email: gogolqx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is qiaoxi's notes. Please refer to the original page if repost. 
   
-#baseurl: /blog
+url: "https://gogolqx.github.io/blog/"
 #github_username:  gogolqx
 #  username: SirDong
 #  urlid: wklchris
