@@ -1,11 +1,11 @@
 title: qiaoxi' notes
 author: qiaoxi
-email: gogolqx AT gmail DOT com
+email: gogolqx@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is qiaoxi's notes. Please refer to the original page if repost. 
   
-baseurl: ""
-github_username:  gogolqx
+#baseurl: /blog
+#github_username:  gogolqx
 #  username: SirDong
 #  urlid: wklchris
 #google_analytics: UA-90643174-1
